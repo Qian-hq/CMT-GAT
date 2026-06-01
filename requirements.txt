@@ -1,0 +1,8 @@
+# CMT-GAT Dependencies
+# Python 3.8+ recommended
+
+torch>=2.0.0
+torch-geometric>=2.3.0
+numpy>=1.21.0
+tqdm>=4.62.0
+scipy>=1.7.0
